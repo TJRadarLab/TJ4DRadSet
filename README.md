@@ -1,7 +1,7 @@
 <div align="right">
-<img src="docs/logo/zucc.jpeg" height="330" width="190" >
+<img src="docs/logo/zucc.jpeg" height="100" width="100" >
  
-<img src="docs/logo/TONGJI.jpeg" height="330" width="190" >
+<img src="docs/logo/TONGJI.jpeg" height="100" width="100" >
  
  
  </div>
