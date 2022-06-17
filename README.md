@@ -1,4 +1,4 @@
-<img src="docs/logo/logo.png" align="right" width="30%">
+<img src="docs/logo/logo.png" align="right" width="40%">
  
 # TJ4DRadSet: A 4D Radar Dataset for Autonomous Driving
 
