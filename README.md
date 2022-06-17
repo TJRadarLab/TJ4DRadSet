@@ -8,7 +8,7 @@ This repository provides description and acquisition of TJ4DRadSet.
 <figure>
 <img src="docs/figures/exampl1.gif" align="center" width="700"/>
 </figure>
-<br clear="center"/>
+<br />
 <b>Example clip from our dataset with camera, LiDAR, 4D radar.</b>
 </div>
 <br>
