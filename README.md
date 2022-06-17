@@ -3,3 +3,15 @@
 # TJ4DRadSet: A 4D Radar Dataset for Autonomous Driving
 
 This repository provides description and acquisition of TJ4DRadSet.
+
+<div align="center">
+<figure>
+<img src="docs/figures/exampl1.gif" align="right" width="700"/>
+</figure>
+<br clear="left"/>
+<b>Example clip from our dataset with camera, LiDAR, 4D radar.</b>
+</div>
+<br>
+<br>
+
+---
