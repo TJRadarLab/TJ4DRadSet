@@ -7,13 +7,13 @@ The dataset will be released gradually after the conference(2022.10.8-10.12)
 
 <div align="center">
 <figure>
-<img src="docs/pictures/example2.gif" width="500"/>
+<img src="docs/pictures/example2.gif" width="450"/>
 </figure>
  <figure>
-<img src="docs/pictures/example3.gif"width="500" />
+<img src="docs/pictures/example3.gif"width="450" />
 </figure>
  <figure>
-<img src="docs/pictures/example4.gif" width="500" />
+<img src="docs/pictures/example4.gif"  />
 </figure>
 <br />
 <b>Example clip from our dataset with camera, LiDAR, 4D radar.</b>
