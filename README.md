@@ -6,13 +6,13 @@ This repository provides description and acquisition of TJ4DRadSet.Our paper has
 
 <div align="center">
 <figure>
-<img src="docs/pictures/example2.gif" />
+<img src="docs/pictures/example2.gif" width="500"/>
 </figure>
  <figure>
-<img src="docs/pictures/example3.gif" />
+<img src="docs/pictures/example3.gif"width="500" />
 </figure>
  <figure>
-<img src="docs/pictures/example4.gif" />
+<img src="docs/pictures/example4.gif" width="500" />
 </figure>
 <br />
 <b>Example clip from our dataset with camera, LiDAR, 4D radar.</b>
