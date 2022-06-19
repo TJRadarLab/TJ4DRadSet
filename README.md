@@ -2,7 +2,8 @@
  
 # TJ4DRadSet: A 4D Radar Dataset for Autonomous Driving
 
-This repository provides description and acquisition of TJ4DRadSet.Our paper has been accepted by IEEE ITSC 2022! The dataset will be released gradually after the conference(2022.10.8-10.12)
+This repository provides description and acquisition of TJ4DRadSet.Our paper has been accepted by IEEE ITSC 2022! 
+The dataset will be released gradually after the conference(2022.10.8-10.12)
 
 <div align="center">
 <figure>
