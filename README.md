@@ -33,4 +33,17 @@ The dataset will be released gradually after the conference(2022.10.8-10.12)
 </div>
 <br>
 <br>
+
+<div align="center">
+<figure>
+<img src="docs/pictures/example3r.gif" width="200"/>
+</figure>
+ <figure>
+<img src="docs/pictures/example5r.gif" width="200" />
+</figure>
+<br />
+<b>Example clip from our dataset with camera & 4D radar.</b>
+</div>
+<br>
+<br>
 ---
