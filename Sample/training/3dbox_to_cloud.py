@@ -9,17 +9,17 @@ file_id = '070070'
 if __name__ == '__main__':
 
   # load point clouds
-  scan_dir = f'./training/velodyne/{file_id}.bin'
+  scan_dir = f'./velodyne/{file_id}.bin'
   scan = np.fromfile(scan_dir, dtype=np.float32).reshape(-1, 8)
   scan = scan[:,:4]
   col = scan[:,3]
   # load labels
-  label_dir = f'./training/label_2/{file_id}.txt'
+  label_dir = f'./label_2/{file_id}.txt'
   
   with open(label_dir, 'r') as f:
     labels = f.readlines()
       
-  with open(f'./training./calib./{file_id}.txt', 'r') as f:
+  with open(f'./calib/{file_id}.txt', 'r') as f:
     lines = f.readlines()
     P2 = np.array(lines[2].strip().split(' ')[1:], dtype=np.float32).reshape(3, 4)
     R0 = np.array(lines[4].strip().split(' ')[1:], dtype=np.float32).reshape(3, 3)
