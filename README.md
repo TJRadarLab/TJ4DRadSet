@@ -141,7 +141,7 @@ The first column represents the frame number, the second column is the tracking 
 ```
 ## Access_License
 The dataset is made freely available for non-commercial research purposes only. Eligibility to use the dataset is limited to College/University students. You need to send the specified email address according to the [Non-Disclosure Agreement](https://pan.baidu.com/s/1h3Vbbctxf55PoQi8ZaA5lQ?pwd=tj4d
-) (please use Chinese).[Processing time: weekdays after Feb. 7, 2023]
+) (please use Chinese).[Please send it using your tutor’s email, the unified processing time is every Monday.]
 
 
 ## Acknowledgement
